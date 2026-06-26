@@ -18,11 +18,10 @@ Each lesson includes:
 
 * 📖 Beginner-friendly explanations
 * 💻 Real Terminal examples
-* 🧠 Detailed notebook notes
 * 💡 Practical developer tips
 * ⚠️ Common beginner mistakes
 * 🚀 Real-world Git workflows
-* 📚 Quick reference cheatsheets
+* 📚 Quick reference summaries
 
 ---
 
@@ -34,26 +33,31 @@ git-for-everybody/
 ├── README.md
 │
 ├── 00-terminal-basics/
-│   ├── README.md
-│   └── notebook-notes.md
+│   └── README.md
 │
 ├── 01-what-is-git/
-│   ├── README.md
-│   └── notebook-notes.md
+│   └── README.md
 │
 ├── 02-installing-git/
-│   ├── README.md
-│   └── notebook-notes.md
+│   └── README.md
 │
 ├── 03-git-basics/
-├── 04-branching/
-├── 05-merging/
-├── 06-remote-repositories/
-├── 07-github-workflow/
-├── 08-undoing-changes/
+│   └── README.md
 │
-└── cheatsheets/
-    └── git-cheatsheet.md
+├── 04-branching/
+│   └── README.md
+│
+├── 05-merging/
+│   └── README.md
+│
+├── 06-remote-repositories/
+│   └── README.md
+│
+├── 07-github-workflow/
+│   └── README.md
+│
+└── 08-undoing-changes/
+    └── README.md
 ```
 
 Each folder represents one stage of the learning journey.
@@ -73,24 +77,22 @@ Each folder represents one stage of the learning journey.
 | ⬜      | Day 06 — Remote Repositories          |
 | ⬜      | Day 07 — GitHub Workflow              |
 | ⬜      | Day 08 — Undoing Changes              |
-| ⬜      | Git Cheatsheets                       |
 
 ---
 
 # 📚 Course Contents
 
-|    Day | Lesson                                            | What You'll Learn                                                                                                |
-| -----: | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **00** | [Terminal Basics](./00-terminal-basics/README.md) | Learn how to navigate the command line, create files and folders, and become comfortable using the Terminal.     |
-| **01** | [What is Git?](./01-what-is-git/README.md)        | Discover what Git is, why developers use version control, and understand the core ideas behind Git.              |
-| **02** | [Installing Git](./02-installing-git/README.md)   | Learn the difference between Terminal and GUI tools, install Git, configure your identity, and set up GitKraken. |
-| **03** | Git Basics                                        | Create your first repository and learn the everyday Git workflow.                                                |
-| **04** | Branching                                         | Understand branches and learn how to work on multiple features safely.                                           |
-| **05** | Merging                                           | Combine branches and resolve merge conflicts with confidence.                                                    |
-| **06** | Remote Repositories                               | Connect local repositories with GitHub and other remote servers.                                                 |
-| **07** | GitHub Workflow                                   | Learn clone, push, pull, fetch, and collaborate with others using GitHub.                                        |
-| **08** | Undoing Changes                                   | Learn how to safely undo mistakes without losing your work.                                                      |
-|  **—** | Git Cheatsheet                                    | A compact reference containing the most useful Git commands.                                                     |
+|    Day | Lesson                                                    | What You'll Learn                                                                                                |
+| -----: | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **00** | [Terminal Basics](./00-terminal-basics/README.md)         | Learn how to navigate the command line, create files and folders, and become comfortable using the Terminal.     |
+| **01** | [What is Git?](./01-what-is-git/README.md)                | Discover what Git is, why developers use version control, and understand the core ideas behind Git.              |
+| **02** | [Installing Git](./02-installing-git/README.md)           | Learn the difference between Terminal and GUI tools, install Git, configure your identity, and set up GitKraken. |
+| **03** | [Git Basics](./03-git-basics/README.md)                   | Create your first repository and learn the everyday Git workflow.                                                |
+| **04** | [Branching](./04-branching/README.md)                     | Understand branches and learn how to work on multiple features safely.                                           |
+| **05** | [Merging](./05-merging/README.md)                         | Combine branches and resolve merge conflicts with confidence.                                                    |
+| **06** | [Remote Repositories](./06-remote-repositories/README.md) | Connect local repositories with GitHub and other remote servers.                                                 |
+| **07** | [GitHub Workflow](./07-github-workflow/README.md)         | Learn clone, push, pull, fetch, and collaborate with others using GitHub.                                        |
+| **08** | [Undoing Changes](./08-undoing-changes/README.md)         | Learn how to safely undo mistakes without losing your work.                                                      |
 
 ---
 

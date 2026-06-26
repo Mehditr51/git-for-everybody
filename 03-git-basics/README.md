@@ -1,4 +1,8 @@
+← [Installing Git](../02-installing-git/README.md) | 🏠 [Home](../README.md) | → [Branching](../04-branching/README.md)
+
 # 🚀 Day 01 — Git Fundamentals
+
+
 
 Welcome to **Day 01** of learning Git!
 
