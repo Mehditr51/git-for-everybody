@@ -196,3 +196,6 @@ Today, Git is the industry standard.
 ✅ Git works locally.
 
 ✅ GitHub is a separate online service built around Git.
+
+
+← [Terminal basics](../00-terminal-basics/README.md) | 🏠 [Home](../README.md) | → [Installing Git](../02-installing-git/README.md)

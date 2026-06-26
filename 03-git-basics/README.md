@@ -847,3 +847,6 @@ Today you learned the core ideas that every Git user relies on:
 These concepts form the foundation of everything you'll do with Git. In future lessons, you'll build on this workflow by learning how to compare changes, work with branches, collaborate through GitHub, and recover from mistakes with confidence.
 
 Happy coding! 🚀
+
+
+← [Installing Git](../02-installing-git/README.md) | 🏠 [Home](../README.md) | → [Branching](../04-branching/README.md)

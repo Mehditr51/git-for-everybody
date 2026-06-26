@@ -383,3 +383,6 @@ You have:
 * Installed a graphical Git client for visualization
 
 In the next lesson, we'll start creating repositories and using Git to track real projects.
+
+
+← [What is Git](../01-what-is-git/README.md) | 🏠 [Home](../README.md) | → [Git Basics](../03-git-basics/README.md)

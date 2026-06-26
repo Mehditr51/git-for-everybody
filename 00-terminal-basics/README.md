@@ -110,4 +110,6 @@ rm -rf <dir>  # delete folder
 clear         # clean up terminal
 ```
 
-> Next: 01 — What is Git?
+
+
+🏠 [Home](../README.md) | → [What is Git](../01-what-is-git/README.md)
