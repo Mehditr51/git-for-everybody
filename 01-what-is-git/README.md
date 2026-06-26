@@ -1,3 +1,5 @@
+← [Terminal basics](../00-terminal-basics/README.md) | 🏠 [Home](../README.md) | → [Installing Git](../02-installing-git/README.md)
+
 # 🌿 What is Git?
 
 Git is the world's most popular version control system.

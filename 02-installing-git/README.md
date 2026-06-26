@@ -1,3 +1,5 @@
+← [What is Git](../01-what-is-git/README.md) | 🏠 [Home](../README.md) | → [Git Basics](../03-git-basics/README.md)
+
 # Day 02 — Installing Git & Setting Up Your Development Environment
 
 > *Before we can start tracking code with Git, we need to prepare our development environment. In this lesson, you'll learn the two main ways to use Git, install it on your computer, configure your identity, and set up a graphical tool that helps visualize Git workflows.*

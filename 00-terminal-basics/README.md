@@ -1,3 +1,5 @@
+🏠 [Home](../README.md) | → [What is Git](../01-what-is-git/README.md)
+
 # Day 00 — Terminal Basics
 
 Before learning Git, you need to know how to navigate your computer using the terminal.
