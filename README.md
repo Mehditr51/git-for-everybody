@@ -71,7 +71,7 @@ Each folder represents one stage of the learning journey.
 | ✅      | Day 00 — Terminal Basics              |
 | ✅      | Day 01 — What is Git?                 |
 | ✅      | Day 02 — Installing & Configuring Git |
-| ⬜      | Day 03 — Git Basics                   |
+| ✅      | Day 03 — Git Basics                   |
 | ⬜      | Day 04 — Branching                    |
 | ⬜      | Day 05 — Merging                      |
 | ⬜      | Day 06 — Remote Repositories          |
