@@ -1,6 +1,6 @@
 ← [Installing Git](../02-installing-git/README.md) | 🏠 [Home](../README.md) | → [Branching](../04-branching/README.md)
 
-# 🚀 Day 01 — Git Fundamentals
+# 🚀 Day 03 — Git Fundamentals
 
 
 
