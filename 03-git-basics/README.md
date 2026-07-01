@@ -4,7 +4,7 @@
 
 
 
-Welcome to **Day 01** of learning Git!
+Welcome to **Day 03** of learning Git!
 
 If you've never used a terminal, written a line of code, or worked with version control before, you're in the right place.
 
