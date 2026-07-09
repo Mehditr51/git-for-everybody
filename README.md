@@ -27,7 +27,7 @@ Each lesson includes:
 
 # 📂 Repository Structure
 
-```text
+```
 git-for-everybody/
 │
 ├── README.md
@@ -44,23 +44,27 @@ git-for-everybody/
 ├── 03-git-basics/
 │   └── README.md
 │
-├── 04-branching/
+├── 04-atomic-commits/
 │   └── README.md
 │
-├── 05-merging/
+├── 05-branching/
 │   └── README.md
 │
-├── 06-remote-repositories/
+├── 06-merging/
 │   └── README.md
 │
-├── 07-github-workflow/
+├── 07-remote-repositories/
 │   └── README.md
 │
-└── 08-undoing-changes/
+├── 08-github-workflow/
+│   └── README.md
+│
+└── 09-undoing-changes/
     └── README.md
 ```
 
-Each folder represents one stage of the learning journey.
+Each folder has a **README.md** lesson file.  
+*Notebook notes are displayed during learning (not stored as files).*
 
 ---
 
@@ -72,11 +76,12 @@ Each folder represents one stage of the learning journey.
 | ✅      | Day 01 — What is Git?                 |
 | ✅      | Day 02 — Installing & Configuring Git |
 | ✅      | Day 03 — Git Basics                   |
-| ⬜      | Day 04 — Branching                    |
-| ⬜      | Day 05 — Merging                      |
-| ⬜      | Day 06 — Remote Repositories          |
-| ⬜      | Day 07 — GitHub Workflow              |
-| ⬜      | Day 08 — Undoing Changes              |
+| ✅      | Day 04 — Atomic Commits               |
+| ⬜      | Day 05 — Branching                    |
+| ⬜      | Day 06 — Merging                      |
+| ⬜      | Day 07 — Remote Repositories          |
+| ⬜      | Day 08 — GitHub Workflow              |
+| ⬜      | Day 09 — Undoing Changes              |
 
 ---
 
@@ -88,11 +93,12 @@ Each folder represents one stage of the learning journey.
 | **01** | [What is Git?](./01-what-is-git/README.md)                | Discover what Git is, why developers use version control, and understand the core ideas behind Git.              |
 | **02** | [Installing Git](./02-installing-git/README.md)           | Learn the difference between Terminal and GUI tools, install Git, configure your identity, and set up GitKraken. |
 | **03** | [Git Basics](./03-git-basics/README.md)                   | Create your first repository and learn the everyday Git workflow.                                                |
-| **04** | [Branching](./04-branching/README.md)                     | Understand branches and learn how to work on multiple features safely.                                           |
-| **05** | [Merging](./05-merging/README.md)                         | Combine branches and resolve merge conflicts with confidence.                                                    |
-| **06** | [Remote Repositories](./06-remote-repositories/README.md) | Connect local repositories with GitHub and other remote servers.                                                 |
-| **07** | [GitHub Workflow](./07-github-workflow/README.md)         | Learn clone, push, pull, fetch, and collaborate with others using GitHub.                                        |
-| **08** | [Undoing Changes](./08-undoing-changes/README.md)         | Learn how to safely undo mistakes without losing your work.                                                      |
+| **04** | [Atomic Commits](./04-atomic-commits/README.md)           | Write professional commits: atomic changes, clear messages, understanding commit philosophy.                     |
+| **05** | [Branching](./05-branching/README.md)                     | Understand branches and learn how to work on multiple features safely.                                           |
+| **06** | [Merging](./06-merging/README.md)                         | Combine branches and resolve merge conflicts with confidence.                                                    |
+| **07** | [Remote Repositories](./07-remote-repositories/README.md) | Connect local repositories with GitHub and other remote servers.                                                 |
+| **08** | [GitHub Workflow](./08-github-workflow/README.md)         | Learn clone, push, pull, fetch, and collaborate with others using GitHub.                                        |
+| **09** | [Undoing Changes](./09-undoing-changes/README.md)         | Learn how to safely undo mistakes without losing your work.                                                      |
 
 ---
 
@@ -115,7 +121,7 @@ Each folder represents one stage of the learning journey.
 
 If you're completely new to Git, follow the lessons in this order:
 
-```text
+```
 Terminal Basics
         ↓
 What is Git?
@@ -123,6 +129,8 @@ What is Git?
 Installing Git
         ↓
 Git Basics
+        ↓
+Atomic Commits
         ↓
 Branching
         ↓
@@ -149,6 +157,16 @@ This repository is designed for:
 * Anyone who prefers detailed notes over short summaries
 
 No previous programming experience is required.
+
+---
+
+# 📝 How to Use This Repository
+
+1. **Read each day's README.md** in order
+2. **Copy the notebook notes** (displayed during lessons) into your own notebook
+3. **Practice the commands** in your terminal
+4. **Review memory hooks** before each coding session
+5. **Refer to quick reference** cheatsheets as needed
 
 ---
 

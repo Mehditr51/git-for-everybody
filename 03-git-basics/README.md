@@ -1,4 +1,4 @@
-← [Installing Git](../02-installing-git/README.md) | 🏠 [Home](../README.md) | → [Branching](../04-branching/README.md)
+← [Installing Git](../02-installing-git/README.md) | 🏠 [Home](../README.md) | → [Branching](../04-atomic-commits/README.md)
 
 # 🚀 Day 03 — Git Fundamentals
 
@@ -849,4 +849,5 @@ These concepts form the foundation of everything you'll do with Git. In future l
 Happy coding! 🚀
 
 
-← [Installing Git](../02-installing-git/README.md) | 🏠 [Home](../README.md) | → [Branching](../04-branching/README.md)
+← [Installing Git](../02-installing-git/README.md) | 🏠 [Home](../README.md) | → [Branching](../04-atomic-commits/README.md)
+>>>>>>> a858840 (Add day 04 and edited the main README.md)
